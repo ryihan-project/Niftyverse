@@ -1,3 +1,9 @@
+FeedContent:{
+	marginTop: 5,
+	marginLeft: 5,
+	textAlign:  'center',
+
+},
 FeedColum2:{
 	flexDirection: "row",
 	width: '100%'
