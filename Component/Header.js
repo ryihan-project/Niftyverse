@@ -22,8 +22,12 @@ Header:{
 HeaderTitle:{
 		fontSize: 18,
 		flexDirection: "row",
+		borderColor: 'black',
+		borderWidth: 3,
 		//alignItems:  'center',
+		borderRadius: 20
 },
+	padding: 5,
 	height: 45,
 }
 });
