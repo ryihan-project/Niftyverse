@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet,Text,View,Image} from 'react-native';
-import GreterthenIcon from '../assets/Icon/greterthen.png';
+import SearchIcon from '../assets/Icon/Search.png';
 const Header = props =>{
 		return (
 		    <View style={styles.Header}>
