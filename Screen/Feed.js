@@ -74,8 +74,16 @@ PostImage:{
 	borderRadius: 5,
 	borderColor: 'red',
 	borderWidth: 1
+
 },
 PostDownNav:{},
 PostText:{},
+	height: 50,
+    backgroundColor:'#68a0cf',
+    borderRadius:20,
+    textAlign:  'center' , 
+    borderWidth: 1,
+    borderColor: '#fff'
+  }
 });
 export default Feed;
