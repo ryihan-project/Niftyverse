@@ -20,10 +20,6 @@ const Feed = props =>{
 		    		</View>
 		    		<View style={styles.FeedColum2} >
 		    			<View style={styles.FeedColum}>
-			    		    <Image source={Profile} style={styles.ProfilePic} />
-			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
-		    		    </View>
-
 			    		    <Image source={Love} style={styles.PostLove} /> 
 			    		    <Text style={{textAlign:  'center',marginTop: 10  }}> 500</Text>
 			    		    <Image source={Comment} style={styles.PostComment} />
