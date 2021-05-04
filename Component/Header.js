@@ -33,7 +33,7 @@ SearchIcon:{
 	padding: 5,
 	marginRight:5,
 	height: 45,
-	width: 45
+	height: 30,
 }
 });
 export default Header;
