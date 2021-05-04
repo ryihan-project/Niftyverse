@@ -6,6 +6,7 @@
 		    		    <View >
 		    		    	<Text style={styles.PostDot} >. . .</Text>
 		    		    </View>
+		    		</View>
 const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
