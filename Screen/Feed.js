@@ -8,7 +8,7 @@ const Feed = props =>{
 		    	<View style={styles.FeedContent} >
 		    		<View style={styles.FeedColum2} >
 		    			<View style={styles.FeedColum}>
-			    		    <Image source={SearchIcon} style={styles.ProfilePic} />
+			    		    <Image source={Profile} style={styles.ProfilePic} />
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
 		    		    <View >
