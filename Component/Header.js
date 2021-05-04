@@ -1,11 +1,13 @@
 import React from 'react';
 import {StyleSheet,Text,View,Image} from 'react-native';
 import SearchIcon from '../assets/Icon/search.png';
+import MenuIcon from '../assets/Icon/menu.png';
 import GreterthenIcon from '../assets/Icon/greterthen.png';
 const Header = props =>{
 		return (
 		    <View style={styles.Header}>
 		    	<Image source={SearchIcon} style={styles.SearchIcon} />
+		    	<Image source={LessthenIcon} style={styles.SearchIcon} />
 		    </View>
 		  );
 };
