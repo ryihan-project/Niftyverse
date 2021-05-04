@@ -11,13 +11,17 @@ const Feed = props =>{
 			    		    <Image source={Profile} style={styles.ProfilePic} />
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
+
 		    		    <View >
 		    		    	<Text style={styles.PostDot} >. . .</Text>
 		    		    </View>
+		    		    
 		    		</View>
+
 		    		<View style={styles.PostImageLayout}>
 		    			<Image source={Post} style={styles.PostImage} />
 		    		</View>
+
 		    		<View style={styles.FeedColum2} >
 		    			<View style={styles.FeedColum}>
 			    		    <Image source={Love} style={styles.PostLove} /> 
