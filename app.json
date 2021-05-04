@@ -1,5 +1,6 @@
 {
   "expo": {
+    "slug": "Niftyverse",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
