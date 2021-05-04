@@ -1,6 +1,7 @@
 import React from 'react';
 import {StyleSheet,Text,View,Image} from 'react-native';
-import SearchIcon from '../assets/Icon/avater.jpg';
+import Profile from '../assets/Icon/avater.jpg';
+import Post from '../assets/Logo/Content/Background.jpg';
 const Feed = props =>{
 		return (
 		    <View style={styles.Feed}>
