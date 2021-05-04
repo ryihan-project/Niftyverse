@@ -16,6 +16,15 @@
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
 
+		    		</View>
+		    		<View>
+		    		</View>
+		    		<View>
+		    		</View>
+		    	</View>
+		   	    </View>
+		  );
+};
 const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
