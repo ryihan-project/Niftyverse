@@ -25,7 +25,7 @@ Header:{
 		borderWidth: 3,
 		//alignItems:  'center',
 		//justifyContent: 'center',
-		borderRadius: 20
+		borderRadius: 20,
 },
 SearchIcon:{
 	padding: 5,
