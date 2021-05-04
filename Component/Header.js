@@ -19,7 +19,6 @@ Header:{
 		width: '100%',
 		height: 90,
 		paddingTop: 36,
-		fontSize: 18,
 		backgroundColor: 'white',
 		flexDirection: "row",
 		borderColor: 'black',
