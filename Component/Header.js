@@ -32,8 +32,8 @@ Header:{
 SearchIcon:{
 	padding: 5,
 	marginRight:5,
-	height: 45,
 	height: 30,
+	width: 30
 }
 });
 export default Header;
