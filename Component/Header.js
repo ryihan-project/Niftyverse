@@ -19,8 +19,8 @@ Header:{
 		width: '100%',
 		height: 90,
 		paddingTop: 36,
-HeaderTitle:{
 		fontSize: 18,
+		backgroundColor: 'white',
 		flexDirection: "row",
 		borderColor: 'black',
 		borderWidth: 3,
@@ -29,6 +29,7 @@ HeaderTitle:{
 },
 	padding: 5,
 	height: 45,
+	width: 45
 }
 });
 export default Header;
