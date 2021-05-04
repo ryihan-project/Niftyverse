@@ -1,3 +1,7 @@
+FeedColum:{
+	flexDirection: "row",
+	 textAlign:  'center',
+},
 PostDot:{
 	marginLeft: 150,
 	fontSize: 30
