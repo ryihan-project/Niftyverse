@@ -1,3 +1,11 @@
+ProfilePic:{
+	width: 50,
+    height: 50,
+    borderRadius: 150 / 2,
+    overflow: "hidden",
+    borderWidth: 3,
+    borderColor: "gray"
+},
 PostImageLayout:{
 	marginRight: 5,
 	marginTop: 3
