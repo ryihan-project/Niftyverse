@@ -1,3 +1,7 @@
+PostImageLayout:{
+	marginRight: 5,
+	marginTop: 3
+},
 PostImage:{
 	height:200,
 	width: '100%',
