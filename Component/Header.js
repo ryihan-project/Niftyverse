@@ -24,6 +24,10 @@ Header:{
 HeaderTitle:{
 		color: 'black',
 		fontSize: 18,
+		flexDirection: "row",
+		//alignItems:  'center',
 },
+	height: 45,
+}
 });
 export default Header;
