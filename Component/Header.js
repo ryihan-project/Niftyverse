@@ -16,9 +16,7 @@ Header:{
 		width: '100%',
 		height: 90,
 		paddingTop: 36,
-		backgroundColor: 'red',
 		alignItems:  'center',
-		justifyContent: 'center',
 },
 HeaderTitle:{
 		color: 'black',
