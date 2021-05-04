@@ -10,6 +10,12 @@
 		    		<View style={styles.PostImageLayout}>
 		    			<Image source={SearchIcon} style={styles.PostImage} />
 		    		</View>
+		    		<View style={styles.FeedColum2} >
+		    			<View style={styles.FeedColum}>
+			    		    <Image source={SearchIcon} style={styles.ProfilePic} />
+			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
+		    		    </View>
+
 const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
