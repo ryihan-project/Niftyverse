@@ -1,9 +1,9 @@
 import React from 'react';
 import {StyleSheet,Text,View,Image} from 'react-native';
 import SearchIcon from '../assets/Icon/Search.png';
-import MenuIcon from '../assets/Icon/521077-200.png';
-import LessthenIcon from '../assets/Icon/download-removebg-preview.png';
-import GreterthenIcon from '../assets/Icon/LastIcon/icon.png';
+import MenuIcon from '../assets/Icon/meno.png';
+import LessthenIcon from '../assets/Icon/less.png';
+import GreterthenIcon from '../assets/Icon/Finallogo.png';
 const Header = props =>{
 		return (
 		    <View style={styles.Header}>
