@@ -1,3 +1,7 @@
+PostDot:{
+	marginLeft: 150,
+	fontSize: 30
+},
 ProfilePic:{
 	width: 50,
     height: 50,
