@@ -25,9 +25,12 @@ Header:{
 		borderColor: 'black',
 		borderWidth: 3,
 		//alignItems:  'center',
+		//justifyContent: 'center',
 		borderRadius: 20
 },
+SearchIcon:{
 	padding: 5,
+	marginRight:5,
 	height: 45,
 	width: 45
 }
