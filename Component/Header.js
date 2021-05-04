@@ -17,7 +17,7 @@ const Header = props =>{
 const styles = StyleSheet.create({
 Header:{
 		width: '100%',
-		height: 90,
+		height: 85,
 		paddingTop: 36,
 		backgroundColor: 'white',
 		flexDirection: "row",
@@ -34,6 +34,8 @@ Header:{
 },
 SearchIcon:{
 	padding: 5,
+	marginLeft: 6,
+	width: 30
 	marginRight:5,
 	height: 30,
 	width: 30
