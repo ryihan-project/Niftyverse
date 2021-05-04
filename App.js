@@ -9,9 +9,7 @@ import Header from './Component/Header';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Header title='Raihan'>
         
-      </Header>
     </View>
   );
 }
