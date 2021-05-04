@@ -7,6 +7,9 @@
 		    		    	<Text style={styles.PostDot} >. . .</Text>
 		    		    </View>
 		    		</View>
+		    		<View style={styles.PostImageLayout}>
+		    			<Image source={SearchIcon} style={styles.PostImage} />
+		    		</View>
 const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
