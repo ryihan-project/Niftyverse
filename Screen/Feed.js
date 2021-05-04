@@ -3,6 +3,9 @@
 			    		    <Image source={SearchIcon} style={styles.ProfilePic} />
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
+		    		    <View >
+		    		    	<Text style={styles.PostDot} >. . .</Text>
+		    		    </View>
 const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
