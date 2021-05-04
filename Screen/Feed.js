@@ -28,8 +28,13 @@ const Feed = props =>{
 		    		<View>
 		    		</View>
 		    		<View>
+		    			
 		    		</View>
+		    		
+
 		    	</View>
+		    		<Text style={{fontSize: 13,color: 'gray',marginTop: 5,marginLeft: 13}}>2 hourse ago.</Text>
+
 		   	    </View>
 		  );
 };
