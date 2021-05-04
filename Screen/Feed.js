@@ -24,6 +24,14 @@ const Feed = props =>{
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
 
+			    		    <Image source={Love} style={styles.PostLove} /> 
+			    		    <Text style={{textAlign:  'center',marginTop: 10  }}> 500</Text>
+			    		    <Image source={Comment} style={styles.PostComment} />
+			    		    <Text style={{textAlign:  'center',marginTop: 10  }}> 500</Text>
+						    <Text style={{fontSize: 25, marginLeft: 5,marginRight: 5}}>.25 ETH</Text>
+						     <Text style={styles.submit}>Buy</Text>
+						    
+		    		    </View>  
 		    		</View>
 		    		<View>
 		    			<Text style={{ marginTop: 10,marginLeft: 10  }}>
