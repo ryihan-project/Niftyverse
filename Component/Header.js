@@ -5,7 +5,7 @@ import GreterthenIcon from '../assets/Icon/greterthen.png';
 const Header = props =>{
 		return (
 		    <View style={styles.Header}>
-		    	<Text style={styles.HeaderTitle}>{props.title}</Text>
+		    	<Image source={SearchIcon} style={styles.SearchIcon} />
 		    </View>
 		  );
 };
