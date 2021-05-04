@@ -1,3 +1,7 @@
+Feed:{
+		width: '100%',
+		height: 500,
+},
 FeedContent:{
 	marginTop: 5,
 	marginLeft: 5,
