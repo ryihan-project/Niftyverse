@@ -39,6 +39,13 @@ SearchIcon:{
 	height: 30,
 	width: 30
 },
+MenuIcon:{
+	padding: 5,
+	marginLeft: 2,
+	marginRight:5,
+	height: 30,
+	width: 30
+},
 	width: 30
 	marginRight:5,
 	height: 30,
