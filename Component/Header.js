@@ -21,7 +21,7 @@ Header:{
 		paddingTop: 36,
 		backgroundColor: 'white',
 		flexDirection: "row",
-		borderColor: 'black',
+		borderColor: '#f3f3f3',
 		borderWidth: 3,
 		//alignItems:  'center',
 		//justifyContent: 'center',
