@@ -1,3 +1,10 @@
+import React from 'react';
+import {StyleSheet,Text,View,Image} from 'react-native';
+import SearchIcon from '../assets/Icon/avater.jpg';
+const Feed = props =>{
+		return (
+		    <View style={styles.Feed}>
+		    	<View style={styles.FeedContent} >
 		    		<View style={styles.FeedColum2} >
 		    			<View style={styles.FeedColum}>
 			    		    <Image source={SearchIcon} style={styles.ProfilePic} />
