@@ -1,3 +1,7 @@
+FeedColum2:{
+	flexDirection: "row",
+	width: '100%'
+},
 FeedColum:{
 	flexDirection: "row",
 	 textAlign:  'center',
