@@ -1,3 +1,4 @@
+const styles = StyleSheet.create({
 Feed:{
 		width: '100%',
 		height: 500,
