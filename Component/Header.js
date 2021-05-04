@@ -35,6 +35,10 @@ Header:{
 SearchIcon:{
 	padding: 5,
 	marginLeft: 6,
+	marginRight:5,
+	height: 30,
+	width: 30
+},
 	width: 30
 	marginRight:5,
 	height: 30,
