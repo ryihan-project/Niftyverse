@@ -8,6 +8,9 @@ const Header = props =>{
 		return (
 		    <View style={styles.Header}>
 		    	<Image source={SearchIcon} style={styles.SearchIcon} />
+		    	<Image source={MenuIcon} style={styles.MenuIcon} />
+		    	<Image source={LessthenIcon} style={styles.LessthenIcon} />
+		    	<Image source={GreterthenIcon} style={styles.GreterthenIcon} />
 		    </View>
 		  );
 };
