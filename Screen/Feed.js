@@ -112,6 +112,7 @@ PostComment:{
 },
 submit:{
     marginRight:0,
+
     width: 50,
     marginTop:5,
     paddingTop:10,
