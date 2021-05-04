@@ -19,10 +19,7 @@ Header:{
 		width: '100%',
 		height: 90,
 		paddingTop: 36,
-		alignItems:  'center',
-},
 HeaderTitle:{
-		color: 'black',
 		fontSize: 18,
 		flexDirection: "row",
 		//alignItems:  'center',
