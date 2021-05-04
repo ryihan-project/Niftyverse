@@ -78,13 +78,17 @@ PostImage:{
 },
 PostDownNav:{},
 PostText:{},
+PostLove:{
 	height: 50,
+	width: 50,
 	marginLeft: 5
 },
 PostComment:{
 	height: 50,
 	width: 60,
+	marginLeft: 20
 },
+submit:{
     marginRight:0,
     width: 50,
     marginTop:5,
