@@ -79,6 +79,8 @@ PostImage:{
 PostDownNav:{},
 PostText:{},
 	height: 50,
+	marginLeft: 5
+},
 PostComment:{
 	height: 50,
 	width: 60,
@@ -86,6 +88,9 @@ PostComment:{
     marginRight:0,
     width: 50,
     marginTop:5,
+    paddingTop:10,
+    paddingBottom:5,
+    height: 45,
     backgroundColor:'#68a0cf',
     borderRadius:20,
     textAlign:  'center' , 
