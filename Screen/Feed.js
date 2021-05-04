@@ -1,14 +1,16 @@
 import React from 'react';
-import {StyleSheet,Text,View,Image} from 'react-native';
+import {StyleSheet,Text,View,Image,TouchableHighlight} from 'react-native';
 import Profile from '../assets/Icon/avater.jpg';
 import Post from '../assets/Logo/Content/Background.jpg';
+import Love from '../assets/Icon/React/Love.png';
+import Comment from '../assets/Icon/React/Comment.png';
 const Feed = props =>{
 		return (
 		    <View style={styles.Feed}>
 		    	<View style={styles.FeedContent} >
 		    		<View style={styles.FeedColum2} >
 		    			<View style={styles.FeedColum}>
-			    		    <Image source={Profile} style={styles.ProfilePic} />
+			    		    <Image source={Profile}  style={styles.ProfilePic} />
 			    		    <Text style={{marginTop: 13}} > MD Raihan</Text>
 		    		    </View>
 
