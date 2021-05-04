@@ -52,6 +52,10 @@ LessthenIcon:{
 	marginRight:5,
 	height: 30,
 	width: 30
+},
+GreterthenIcon:{
+	padding: 5,
+	marginLeft: 2,
 	marginRight:5,
 	height: 30,
 	width: 30
