@@ -26,6 +26,13 @@ const Feed = props =>{
 
 		    		</View>
 		    		<View>
+		    			<Text style={{ marginTop: 10,marginLeft: 10  }}>
+		    				
+		    				Demo Text. Demo Text.Demo Text.Demo Text.Demo Text.Demo Text.
+		    				Demo Text. Demo Text.Demo Text.Demo Text.Demo Text.Demo Text.
+		    				Demo Text. Demo Text.Demo Text.Demo Text.Demo Text.Demo Text.
+		    				Demo Text. Demo Text.Demo Text.Demo Text.Demo Text.Demo Text.
+		    			</Text>
 		    		</View>
 		    		<View>
 		    			
