@@ -19,6 +19,11 @@ export default function App() {
       	<Feed/>
       	<Feed/>
       	<Feed/>
+      	<Feed/>
+      	<Feed/>
+      	<Feed/>
+      	<Feed/>
+      	<Feed/>
       	</View>
       	
       </ScrollView>
