@@ -15,7 +15,9 @@ export default function App() {
       <ScrollView style={styles.scrollView}>
       	<Feed/>
       	<Feed/>
+      	</View>
       
+
     </View>
   );
 }
