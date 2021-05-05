@@ -15,6 +15,10 @@ export default function App() {
       <ScrollView style={styles.scrollView}>
       	<Feed/>
       	<Feed/>
+      	<Feed/>
+      	<Feed/>
+      	<Feed/>
+      	<Feed/>
       	</View>
       	
       </ScrollView>
