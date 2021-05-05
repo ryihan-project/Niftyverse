@@ -23,17 +23,6 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  logo: {
-   
-    padding: 80,
-    //backgroundColor: '#C6BCF7',
-    marginBottom: 10,
-  },
-  instructions: {
-    color: '#888',
-    fontSize: 18,
-    marginHorizontal: 15,
-  }, 
   
 /*
 |Input Style...
