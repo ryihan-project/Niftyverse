@@ -14,14 +14,6 @@ export default function App() {
         <View style={
           {
             fontSize:65,
-          >Niftyverse</Text>
-      </View>
-          <View style={styles.row}>
-              <TextInput style={[styles.input,styles.LeftInput]}value={'email'}/>
-              <TextInput style= {[styles.input,styles.RightInput]} value={'password'} />
-         </View>
-
-
         <View style={styles.row}>
         
         <TouchableHighlight style={styles.submit}>
