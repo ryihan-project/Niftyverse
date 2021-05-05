@@ -1,16 +1,36 @@
 import React from 'react';
-import {StyleSheet,Text,View,Image} from 'react-native';
+import {StyleSheet,Text,View,Image,Button,Alert } from 'react-native';
 import SearchIcon from '../assets/Icon/Search.png';
 import MenuIcon from '../assets/Icon/meno.png';
 import LessthenIcon from '../assets/Icon/less.png';
 import GreterthenIcon from '../assets/Icon/Finallogo.png';
 const Header = props =>{
+const createThreeButtonAlert = () =>
+    Alert.alert(
+      "Alert Title",
+      "My Alert Msg",
+      [
+        {
+          text: "Ask me later",
+          onPress: () => console.log("Ask me later pressed")
+        },
+        {
+          text: "Cancel",
+          onPress: () => console.log("Cancel Pressed"),
+          style: "cancel"
+        },
+        { text: "OK", onPress: () => console.log("OK Pressed") }
+      ]
+    );
+
+
 		return (
 		    <View style={styles.Header}>
-		    	<Image source={SearchIcon} style={styles.SearchIcon} />
+		    	<Image source={SearchIcon} style={styles.SearchIcon}  />
 		    	<Image source={MenuIcon} style={styles.MenuIcon} />
 		    	<Image source={LessthenIcon} style={styles.LessthenIcon} />
 		    	<Image source={GreterthenIcon} style={styles.GreterthenIcon} />
+		    	<Button title="Right button" onPress={createThreeButtonAlert} />
 		    </View>
 		  );
 };
