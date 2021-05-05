@@ -35,11 +35,6 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-            borderRadius:15,
-            
-        },
-  LeftInput:{
-            width: '45%',
             marginRight: 8,
 
   },
