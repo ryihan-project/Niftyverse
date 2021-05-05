@@ -12,11 +12,8 @@ export default function App() {
     <View style={styles.container}>
         
         <TouchableHighlight style={styles.submit}>
-          <Text style={styles.submitText}>Login</Text>
-      </TouchableHighlight>
-
-      </View>
-      </LinearGradient>
+      <Header/>
+      <ScrollView style={styles.scrollView}>
       
     </View>
   );
