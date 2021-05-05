@@ -35,15 +35,11 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-            marginRight: 8,
+ container:{
   flex: 1,
  },
  scrollView:{
 
-            width: '45%',
-  },
-/*
-|Input And Button Row Style...
 */
   row: {
     marginTop: 10,
