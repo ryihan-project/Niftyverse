@@ -10,7 +10,6 @@ import Feed from './Screen/Feed';
 export default function App() {
   return (
     <View style={styles.container}>
-        <View style={styles.row}>
         
         <TouchableHighlight style={styles.submit}>
           <Text style={styles.submitText}>Login</Text>
