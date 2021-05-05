@@ -9,6 +9,9 @@ import {
   TextInput,
   TouchableHighlight
    } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
+import logo from './assets/Logo/Logo-72_x_72.png'; 
+
 export default function Login() {
   return (
     <View style={styles.container}>
