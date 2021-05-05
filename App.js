@@ -36,10 +36,10 @@ export default function App() {
 
 const styles = StyleSheet.create({
             marginRight: 8,
+  flex: 1,
+ },
+ scrollView:{
 
-  },
-  RightInput:{
-            color:'white',
             width: '45%',
   },
 /*
