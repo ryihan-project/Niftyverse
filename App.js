@@ -11,9 +11,10 @@ export default function App() {
   return (
     <View style={styles.container}>
         
-        <TouchableHighlight style={styles.submit}>
       <Header/>
       <ScrollView style={styles.scrollView}>
+      	<Feed/>
+      	<Feed/>
       
     </View>
   );
