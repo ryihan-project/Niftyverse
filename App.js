@@ -21,9 +21,6 @@ export default function App() {
           style={{
             textAlign:  'center' ,
             fontSize:65,
-            color: 'white'
-
-            }}
           >Niftyverse</Text>
       </View>
           <View style={styles.row}>
