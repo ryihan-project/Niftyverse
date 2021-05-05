@@ -2,6 +2,9 @@
 //import { LinearGradient } from 'expo-linear-gradient';
 import React from 'react';
 import logo from './assets/Logo/Logo-72_x_72.png'; 
+//Header Import
+import Header from './Component/Header';
+import Feed from './Screen/Feed';
 
 export default function App() {
   return (
