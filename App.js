@@ -10,10 +10,6 @@ import Feed from './Screen/Feed';
 export default function App() {
   return (
     <View style={styles.container}>
-      <LinearGradient colors={['#99f8ed', '#b6c1f6', '#e3bbf9']} style={styles.container} >
-        <View style={
-          {
-            fontSize:65,
         <View style={styles.row}>
         
         <TouchableHighlight style={styles.submit}>
