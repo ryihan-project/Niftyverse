@@ -40,11 +40,6 @@ const styles = StyleSheet.create({
  },
  scrollView:{
 
-    //backgroundColor:'#68a0cf',
-    borderRadius:30,
-    borderWidth: 1,
-    borderColor: '#fff'
-  },
   submitText:{
 
       color:'#fff',
