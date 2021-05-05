@@ -13,13 +13,6 @@ export default function App() {
       <LinearGradient colors={['#99f8ed', '#b6c1f6', '#e3bbf9']} style={styles.container} >
         <View style={
           {
-            marginTop: '50%',
-            alignItems: 'center',
-          }
-          }>
-
-          style={{
-            textAlign:  'center' ,
             fontSize:65,
           >Niftyverse</Text>
       </View>
