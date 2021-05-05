@@ -20,14 +20,6 @@ export default function App() {
           <Text style={styles.submitText}>Login</Text>
       </TouchableHighlight>
 
-      <TouchableHighlight style={styles.submit} >
-          <Text style={styles.submitText}>Register</Text>
-      </TouchableHighlight>
-      </View>
-
-      <View>
-        <Text style={ styles.forget}> forget password</Text>
-
       </View>
       </LinearGradient>
       
