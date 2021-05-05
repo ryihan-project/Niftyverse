@@ -7,11 +7,24 @@ import logo from './assets/Logo/Logo-72_x_72.png';
 import Header from './Component/Header';
 import Feed from './Screen/Feed';
 
+function renderConditionalText() {
+    if (this.state.isSignUp) {
+        return <Text> Sign Up </Text>;
+    }
+     return <Text> Forgot Password </Text>; 
+}
+
+
+
+
 export default function App() {
+
+	
   return (
     <View style={styles.container}>
         
       <Header/>
+
       <ScrollView style={styles.scrollView}>
       	<View>
       	<Feed/>
