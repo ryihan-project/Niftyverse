@@ -18,10 +18,6 @@ export default function App() {
           }
           }>
 
-            <Image source={logo} style={styles.logo} />
-          </View>
-      <View  >
-        <Text
           style={{
             textAlign:  'center' ,
             fontSize:65,
