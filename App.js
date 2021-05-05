@@ -13,6 +13,7 @@ export default function App() {
         
       <Header/>
       <ScrollView style={styles.scrollView}>
+      	<View>
       	<Feed/>
       	<Feed/>
       	<Feed/>
@@ -34,17 +35,10 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  input:{ 
-            marginTop: 50,
-            height: 40,
-            borderColor: 'white',
-            borderWidth: 1,
             borderRadius:15,
-            textAlign:  'center' 
             
         },
   LeftInput:{
-            color:'white',
             width: '45%',
             marginRight: 8,
 
