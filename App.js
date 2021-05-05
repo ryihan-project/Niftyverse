@@ -40,14 +40,5 @@ const styles = StyleSheet.create({
  },
  scrollView:{
 
-  submitText:{
-
-      color:'#fff',
-      textAlign:'center',
-  },
-  forget:{
-    textAlign:   'center',
-    color:'gray',
-    marginTop: 10 
-  }
+ }
 });
