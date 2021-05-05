@@ -23,10 +23,6 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-  
-/*
-|Input Style...
-*/
   input:{ 
             marginTop: 50,
             height: 40,
