@@ -40,19 +40,6 @@ const styles = StyleSheet.create({
  },
  scrollView:{
 
-*/
-  row: {
-    marginTop: 10,
-    marginLeft: '5%',
-    flexDirection: "row",
-  },
-  submit:{
-    marginRight:3,
-    width: '45%',
-    marginTop:10,
-    paddingTop:10,
-    paddingBottom:20,
-    height: 45,
     //backgroundColor:'#68a0cf',
     borderRadius:30,
     borderWidth: 1,
