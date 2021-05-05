@@ -23,14 +23,6 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
- container: {
-   // flex: 1,
-    // backgroundColor: '#C6BCF7' ,//C6BCF7
-   // alignItems: 'center',
-    //justifyContent: 'center',
-  width: '100%',
-  height:'100%'
-  },
   logo: {
    
     padding: 80,
